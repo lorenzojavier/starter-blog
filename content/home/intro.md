@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
 title = "Negro, Violeta"
-subtitle = "Yo soy aquí, yo soy allá"
+subtitle = "Yo Soy Aquí, Y Yo Soy Allá"
   #subtitle = "For [Academic Website Builder](https://sourcethemes.com/academic/)"
 
 [design.background]

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
 title = "Negro, Violeta"
-subtitle = "Yo soy, aquí y allá"
+subtitle = "Yo soy aquí, yo soy allá"
   #subtitle = "For [Academic Website Builder](https://sourcethemes.com/academic/)"
 
 [design.background]
@@ -14,5 +14,5 @@ subtitle = "Yo soy, aquí y allá"
   color = "#7c47ad"
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 +++

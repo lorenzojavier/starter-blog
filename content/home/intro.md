@@ -14,5 +14,5 @@ subtitle = "Yo Soy Aquí, Y Yo Soy Allá"
   color = "#7c47ad"
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 +++
